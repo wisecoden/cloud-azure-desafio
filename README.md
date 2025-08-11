@@ -1,5 +1,7 @@
 # Explorando o Microsoft Azure
 
+Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+
 ## Localizando Serviços por Categoria no Azure
 
 O **Microsoft Azure** oferece uma ampla variedade de serviços para atender diferentes necessidades de organizações e desenvolvedores, incluindo:
